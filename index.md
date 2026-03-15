@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog!
+Siemanko: Witam w mojej kuchni!
 ---
 # This is just an exercise for github skills
 ## I dont know what to write here
